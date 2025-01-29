@@ -1,0 +1,7 @@
+
+Cliente: Felipe
+
+Carrinho 1:
+2x Camiseta - R$ 139.95 cada
+1x Calça - R$ 123.70 cada
+Total: R$ 403.60
