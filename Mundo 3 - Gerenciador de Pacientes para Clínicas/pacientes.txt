@@ -1,0 +1,15 @@
+Nome: Jos�
+Idade: 65
+Sintomas: Tontura,  Fadiga,  Dor no peito
+Status da Consulta: Internado
+--------------------
+Nome: Jo�o
+Idade: 70
+Sintomas: Dor nos MMII,  Cefaleia
+Status da Consulta: pendente
+--------------------
+Nome: Maria
+Idade: 87
+Sintomas: Dificuldade para respirar
+Status da Consulta: pendente
+--------------------
