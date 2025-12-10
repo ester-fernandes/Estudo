@@ -1,6 +1,6 @@
 # ESTUDO
 
-Este repositório contém os projetos que estou desenvolvendo ao longo dos meus estudos na área de Ciência de Dados e Inteligência Artificial. O objetivo é documentar o progresso dos meus aprendizados, aplicar os conceitos adquiridos e compartilhar as soluções que estou criando.
+Este repositório contém os projetos que estou desenvolvendo ao longo dos meus estudos na área Dados e Inteligência Artificial. O objetivo é documentar o progresso dos meus aprendizados, aplicar os conceitos adquiridos e compartilhar as soluções que estou criando.
 
 ## Estrutura do Repositório
 
@@ -21,6 +21,6 @@ Este repositório é um reflexo do meu aprendizado pessoal, e não estou buscand
 
 ## Objetivo
 
-Meu objetivo é aprimorar minhas habilidades em Ciência de Dados e Machine Learning, com foco em aplicar os conhecimentos em áreas práticas, como a saúde. Todos os projetos são documentados para facilitar o aprendizado e também para futuras consultas e melhorias.
+Meu objetivo é aprimorar minhas habilidades em Dados e Machine Learning, com foco em aplicar os conhecimentos em áreas práticas, como a saúde. Todos os projetos são documentados para facilitar o aprendizado e também para futuras consultas e melhorias.
 
 Acompanhe o progresso e fique à vontade para explorar o repositório!
